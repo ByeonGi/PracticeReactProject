@@ -1,0 +1,19 @@
+.explanation {
+
+    
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-right: 60px;
+    padding-left: 60px;
+    border-radius: 6px;
+    background-color: #eee;
+    color: orange;
+
+}
+
+.explanation .explanation-high{
+    font-size: 3rem;
+}
+.explanation .explanation-low{
+    font-size : 1rem;
+}
