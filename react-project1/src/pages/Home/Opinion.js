@@ -4,7 +4,7 @@ import './Opinion.css';
 class Opinion extends Component{
     render(){
         return(
-            <div className="container">
+            <div>
                 <div className="opinion">
                     <label className="label">오늘의 의견</label>
                     <textarea className ="opinion-content" rows="5" placeholder="오늘의 의견을 적어보아요"></textarea>

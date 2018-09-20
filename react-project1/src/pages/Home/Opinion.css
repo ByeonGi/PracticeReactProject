@@ -1,12 +1,12 @@
-.container{
-    display:block;
-    width: 100%;
-    
-}
+
+
 .label {
     display:block;
 }
 .opinion {
-    width: 100%;
+    
     overflow: auto;
+}
+.opinion-content {
+  width: 99%;
 }
