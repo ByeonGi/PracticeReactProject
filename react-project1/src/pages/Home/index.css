@@ -1,8 +1,11 @@
 .container{
     display: flex;
-
+    justify-content: center;
 }
 
 .home-container{
+    
+    
     width: 700px;
+    
 }

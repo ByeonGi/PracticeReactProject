@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './Explanation.css';
 
 const Explanation = () => {
